@@ -1,0 +1,16 @@
+{
+    "display":  "standalone",
+    "lang":  "lt-LT",
+    "icons":  [
+                  {
+                      "type":  "image/svg+xml",
+                      "sizes":  "any",
+                      "src":  "assets/favicon.svg"
+                  }
+              ],
+    "background_color":  "#f7f6f1",
+    "theme_color":  "#1736c7",
+    "name":  "Art Casino — Šiuolaikinė galerija",
+    "start_url":  "/",
+    "short_name":  "Art Casino LT"
+}
